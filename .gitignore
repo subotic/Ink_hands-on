@@ -6,3 +6,6 @@ artifacts/
 types/
 addresses.json
 code_hashes.json
+
+/.direnv
+.DS_Store
